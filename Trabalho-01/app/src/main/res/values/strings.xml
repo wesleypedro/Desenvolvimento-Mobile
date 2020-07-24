@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho - 01</string>
+    <string name="editLogged">Lembrar Usuário</string>
+    <string name="viewPermanecerLogado">Permanecer logado?</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonCadastrar">Cadastrar</string>
+    <string name="emailHint">example@example.com</string>
+    <string name="autoComplete">País de origem</string>
+</resources>
