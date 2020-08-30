@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dpm1"
+        android:title="Dropdown menu 1"/>
+
+    <item
+        android:id="@+id/dpm2"
+        android:title="Dropdown menu 2"/>
+
+    <item
+        android:id="@+id/dpm3"
+        android:title="Dropdown menu 3"/>
+
+    <item
+        android:id="@+id/dpm4"
+        android:title="Dropdown menu 4"/>
+</menu>

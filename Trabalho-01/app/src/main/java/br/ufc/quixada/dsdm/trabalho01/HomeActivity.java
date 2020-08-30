@@ -47,7 +47,7 @@ public class HomeActivity extends AppCompatActivity {
 
             @Override
             public void onTabUnselected(TabLayout.Tab tab) {
-                tab.
+
             }
 
             @Override
